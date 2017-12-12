@@ -283,3 +283,17 @@ h4{
 #first{
     padding-top: 65px;
 }
+
+#diretrizes a{
+    color:#ff218a; 
+    text-decoration:none; 
+    font-weight:bolder;
+}
+
+#diretrizes a:hover{
+    color: #56de3f;; 
+}
+
+#section2{
+    min-height:100vh;
+}
